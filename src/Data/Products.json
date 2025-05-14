@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "name": "Solar Panel 250W",
+    "brand": "SolarMax",
+    "description": "A high-efficiency 250W solar panel designed for residential and commercial use. Ideal for homeowners looking to reduce energy bills.",
+    "category": "Solar Panel",
+    "wattage": 250,
+    "price": 299.99,
+    "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=500&q=80",
+    "stock": 25
+  },
+  {
+    "id": "2",
+    "name": "Solar Battery 5kWh",
+    "brand": "EnergyPlus",
+    "description": "A reliable 5kWh solar battery to store excess energy for use during cloudy days or nighttime. Compatible with most solar panel systems.",
+    "category": "Solar Battery",
+    "wattage": 5000,
+    "price": 1500,
+    "image": "./public/images.png",
+    "stock": 12
+  },
+  {
+    "id": "3",
+    "name": "Solar Inverter 3kW",
+    "brand": "PowerPro",
+    "description": "A 3kW solar inverter that converts DC energy from solar panels into AC power. Designed for residential and small commercial systems.",
+    "category": "Solar Inverter",
+    "wattage": 3000,
+    "price": 899.99,
+    "image": "https://images.unsplash.com/photo-1497440001374-f26997328c1b?auto=format&fit=crop&w=500&q=80",
+    "stock": 8
+  },
+  {
+    "id": "4",
+    "name": "Solar Panel 500W",
+    "brand": "GreenEnergy",
+    "description": "A 500W high-efficiency solar panel perfect for larger systems, providing more energy for high-demand usage.",
+    "category": "Solar Panel",
+    "wattage": 500,
+    "price": 499.99,
+    "image": "./public/solar-panel.jpg",
+    "stock": 15
+  },
+  {
+    "id": "5",
+    "name": "Portable Solar Generator",
+    "brand": "EcoPower",
+    "description": "A portable solar generator to power small appliances on the go. Great for camping, outdoor activities, and emergency backup.",
+    "category": "Solar Generator",
+    "wattage": 200,
+    "price": 250,
+    "image": "./public/solar.jpg",
+    "stock": 20
+  }
+]
